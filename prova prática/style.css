@@ -1,0 +1,22 @@
+.container{
+    width: 1920;
+    text-align: center;
+    background-color: #044679;
+
+ }
+ .nav{
+    padding: 1px;
+ }
+ article{
+    padding: 0.8rem;
+    background-color: #044679 ;
+    color: white;
+    text-align: center;
+ }
+ footer p{
+    text-align: center;
+    color: white;
+}
+
+
+
